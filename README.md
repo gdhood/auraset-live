@@ -1,4 +1,4 @@
-# AuraSet V2: private preview
+# AuraSet (encrypted preview)
 
-This repository hosts only an **encrypted** build of AuraSet V2 (AES-256-GCM; the key is derived from a passphrase in the browser).
-Without the passphrase, the page contains no readable application code or content.
+The current build is **V5** at `/v5/` (passphrase-gated, encrypted). The site root redirects to it.
+Earlier versions (V2–V4) are retired from this site; their source is kept privately.
